@@ -320,9 +320,10 @@ DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 
-# Puff Networks LLC
-DOMAIN-KEYWORD,paofu
-DOMAIN-KEYWORD,miru
+# Puff
+DOMAIN-SUFFIX,paofucloud.com
+DOMAIN-SUFFIX,paofu.cloud
+DOMAIN-SUFFIX,miru.cloud
 
 # Qobuz
 DOMAIN-SUFFIX,qobuz.com
